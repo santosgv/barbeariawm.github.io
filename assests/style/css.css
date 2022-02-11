@@ -1,4 +1,9 @@
 
+
+.container-fluid{
+  text-align: center;
+}
+
 body .container-fluid h3{
   font-family: 'Courier New', Courier, monospace;
   color: black;
@@ -11,6 +16,10 @@ body .container-fluid h3{
 .margin{
   padding-top: 50px;
   padding-bottom: 50px;
+}
+
+.quemSomos div img{
+  justify-content: center;
 }
 
 .quemSomos p {
