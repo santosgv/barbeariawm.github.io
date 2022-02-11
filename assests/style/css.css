@@ -1,0 +1,26 @@
+
+body .container-fluid h3{
+  font-family: 'Courier New', Courier, monospace;
+  color: black;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.margin{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.quemSomos p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: rgb(7, 7, 8);
+}
+
+.depoimentos p {
+  font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  font-size: 20px;
+  color: rgb(194, 27, 4);
+}
