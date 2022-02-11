@@ -33,3 +33,10 @@ body .container-fluid h3{
   font-size: 20px;
   color: rgb(194, 27, 4);
 }
+
+@media only screen and (min-width: 600px) {
+  .quemSomos img {
+    width: 600px;
+    height: 700px;
+  }
+}
