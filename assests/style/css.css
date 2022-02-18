@@ -1,18 +1,26 @@
 
 
-.container-fluid{
-  text-align: center;
-}
-
 body .container-fluid h3{
   font-family: 'Poppins', Courier, monospace;
   color: black;
 }
 
-.navbar{
-    background-color: white;
+.row{
+  justify-content: center;
 }
 
+div .card{
+      padding: 5px;
+      margin: 10px;
+      color: var(--main-bg-primary);
+      align-items: center;
+	  border-radius:20px;
+  }
+  
+  div .card > img{
+	  border-radius:20px;
+  }
+  
 .margin{
   padding-top: 50px;
   padding-bottom: 50px;
