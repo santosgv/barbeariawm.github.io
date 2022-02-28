@@ -47,6 +47,15 @@ div .card{
   display:inline;
 }
 
+.inicio{
+  border: none;
+  right: 12px;
+  bottom: 12px;
+  position: fixed;
+}
+
+
+
 @media only screen and (min-width: 500px) {
   .quemSomos img {
     width: 600px;
@@ -59,4 +68,6 @@ div .card{
     width: 100%;
     height: 600px;
   }
+
+
 }
