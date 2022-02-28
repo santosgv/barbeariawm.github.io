@@ -47,8 +47,9 @@ div .card{
   display:inline;
 }
 
-.inicio{
-  border: none;
+
+
+.inicio a{
   right: 12px;
   bottom: 12px;
   position: fixed;
