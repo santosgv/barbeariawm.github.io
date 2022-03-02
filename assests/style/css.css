@@ -67,7 +67,7 @@ div .card{
 @media only screen and (min-width: 1000px) {
   .carousel-inner img {
     width: 100%;
-    height: 800px;
+    height: 900px;
     background-size:cover;
   }
 
